@@ -1,3 +1,15 @@
+---
+title: MedRAG — Medical Document Q&A
+emoji: 🩺
+colorFrom: indigo
+colorTo: blue
+sdk: streamlit
+sdk_version: "1.45.1"
+python_version: "3.10"
+app_file: app.py
+pinned: false
+---
+
 # MedRAG — Medical Document Q&A
 
 > Upload medical PDFs and ask grounded, source-attributed questions — powered by RAG, LangChain, and Qwen2.5-72B.
