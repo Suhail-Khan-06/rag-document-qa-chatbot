@@ -12,13 +12,7 @@ pinned: false
 
 # MedRAG — Medical Document Q&A
 
-A RAG-powered medical document question-answering chatbot built with:
-
-- LangChain
-- ChromaDB
-- Sentence Transformers
-- Hugging Face Inference API
-- Streamlit
+A RAG-powered medical document question-answering chatbot built with LangChain, ChromaDB, Sentence Transformers, Hugging Face Inference API, and Streamlit.
 
 ## Features
 
@@ -33,7 +27,7 @@ A RAG-powered medical document question-answering chatbot built with:
 - Python
 - LangChain
 - ChromaDB
-- all-MiniLM-L6-v2
-- Hugging Face LLMs
+- Sentence Transformers (`all-MiniLM-L6-v2`)
+- Hugging Face Inference API
 - Streamlit
 - Hugging Face Spaces
